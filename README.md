@@ -1,12 +1,4 @@
-## dumpit-sigs
-
-Use the index.html file to test with live server.
-
-`npm install -g live-server`
-
-then you can just run
-
-`live-server` from the directory of the files.
+# dumpit-sigs
 
 
 ## Steps to add to mac mail:
@@ -25,3 +17,13 @@ then you can just run
 - Add new signature to your email address
 - Send test email
 - Win
+
+### Testing Locally
+
+Use the index.html file to test with live server.
+
+`npm install -g live-server`
+
+then you can just run
+
+`live-server` from the directory of the files.
